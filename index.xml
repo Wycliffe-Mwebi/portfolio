@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <link>https://wycliffe-mwebi.github.io/portfolio/</link>
+    <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 12:00:00 +0000</lastBuildDate><atom:link href="https://wycliffe-mwebi.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://wycliffe-mwebi.github.io/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wycliffe-mwebi.github.io/portfolio/about/</guid>
+      <description>Born and raised in Nairobi, Kenya I graduated from the University of Sunderland, UK with a BS in Computer Studies and a Master’s degree in Innovation, Technology and Law from the University of Edinburgh, UK.
+For over ten years, I have worked on data-related things at several organizations including the International Monetary Fund (IMF) in Washington DC and SICPA in Switzerland. I have consulted for several others, including French Multinational Bull Atos.</description>
+    </item>
+    
+    <item>
+      <title>TRAINING</title>
+      <link>https://wycliffe-mwebi.github.io/portfolio/post/vivamus-lacus-mauris/</link>
+      <pubDate>Wed, 17 Jun 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://wycliffe-mwebi.github.io/portfolio/post/vivamus-lacus-mauris/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
+    </item>
+    
+    <item>
+      <title> TRAINING Courses</title>
+      <link>https://wycliffe-mwebi.github.io/portfolio/post/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wycliffe-mwebi.github.io/portfolio/post/training/</guid>
+      <description>Introduction to Artificial Intelligence with Python
+This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. Through hands-on projects, students gain exposure to the theory behind graph search algorithms, classification, optimization, reinforcement learning, and other topics in artificial intelligence and machine learning as they incorporate them into their own Python programs.</description>
+    </item>
+    
+    <item>
+      <title>Data Science &amp; ML -using Python</title>
+      <link>https://wycliffe-mwebi.github.io/portfolio/service/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wycliffe-mwebi.github.io/portfolio/service/service3/</guid>
+      <description>&lt;p&gt;My Data Science Repository containing portfolio projects completed for Industry, academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.   &lt;br&gt;
+-Tools; Python: NumPy, Pandas, Seaborn, Matplotlib
+Machine Learning: scikit-learn, TensorFlow, keras&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Science &amp; ML -using R</title>
+      <link>https://wycliffe-mwebi.github.io/portfolio/service/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wycliffe-mwebi.github.io/portfolio/service/service1/</guid>
+      <description>&lt;p&gt;My Data Science Repository containing portfolio projects completed for Industry, academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.   &lt;br&gt;
+-Tools; R: tidyverse, dplyr, R Markdown , Shiny, Ggplot2
+Machine Learning: RandomForest, caret&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My current research</title>
+      <link>https://wycliffe-mwebi.github.io/portfolio/service/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wycliffe-mwebi.github.io/portfolio/service/service2/</guid>
+      <description>&lt;p&gt;As a data scientist, I like to maintain ties to the research community while working in the data science field. This gives me a firm grip &amp;amp; perspective of the technologies I use in my consulting work: It enables me to apply AI &amp;amp; machine learning and contribute to its intellectual discourse.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visualization -Tableau</title>
+      <link>https://wycliffe-mwebi.github.io/portfolio/service/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wycliffe-mwebi.github.io/portfolio/service/service4/</guid>
+      <description>&lt;p&gt;Beautiful data visualization can have powerful implications for data users experience and ability to uncover deeper insights and drill deeper into their data in order to make better business decisions.
+This repository contains curated dashboards and visualizations I have created in Tableau.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

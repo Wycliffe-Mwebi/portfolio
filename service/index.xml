@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <link>https://wycliffe-mwebi.github.io/portfolio/service/</link>
+    <description>Recent content in Services on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://wycliffe-mwebi.github.io/portfolio/service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science &amp; ML -using Python</title>
+      <link>https://wycliffe-mwebi.github.io/portfolio/service/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wycliffe-mwebi.github.io/portfolio/service/service3/</guid>
+      <description>&lt;p&gt;My Data Science Repository containing portfolio projects completed for Industry, academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.   &lt;br&gt;
+-Tools; Python: NumPy, Pandas, Seaborn, Matplotlib
+Machine Learning: scikit-learn, TensorFlow, keras&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Science &amp; ML -using R</title>
+      <link>https://wycliffe-mwebi.github.io/portfolio/service/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wycliffe-mwebi.github.io/portfolio/service/service1/</guid>
+      <description>&lt;p&gt;My Data Science Repository containing portfolio projects completed for Industry, academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.   &lt;br&gt;
+-Tools; R: tidyverse, dplyr, R Markdown , Shiny, Ggplot2
+Machine Learning: RandomForest, caret&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My current research</title>
+      <link>https://wycliffe-mwebi.github.io/portfolio/service/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wycliffe-mwebi.github.io/portfolio/service/service2/</guid>
+      <description>&lt;p&gt;As a data scientist, I like to maintain ties to the research community while working in the data science field. This gives me a firm grip &amp;amp; perspective of the technologies I use in my consulting work: It enables me to apply AI &amp;amp; machine learning and contribute to its intellectual discourse.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visualization -Tableau</title>
+      <link>https://wycliffe-mwebi.github.io/portfolio/service/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wycliffe-mwebi.github.io/portfolio/service/service4/</guid>
+      <description>&lt;p&gt;Beautiful data visualization can have powerful implications for data users experience and ability to uncover deeper insights and drill deeper into their data in order to make better business decisions.
+This repository contains curated dashboards and visualizations I have created in Tableau.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
